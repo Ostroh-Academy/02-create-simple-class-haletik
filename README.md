@@ -8,3 +8,4 @@
 5.	Завантажити код програми на GitHub у репозиторій заданий викладачем.
 6.	Нарисувати UML діаграму класів у зручному редакторі та долучити її в README файл репозиторію у вигляді рисунка.
 7.	Зробити pull request.
+![2](https://github.com/Ostroh-Academy/02-create-simple-class-haletik/assets/92076714/07045822-2fdb-4bf1-bd2e-5e08c6ed571c)
